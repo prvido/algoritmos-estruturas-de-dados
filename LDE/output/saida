@@ -1,0 +1,36 @@
+Underflow Error: Lista Vazia.
+50
+Logic Error: Chave inexistente na Lista.
+30 50 70
+SIM
+20 30 40 50 60 70 80
+SIM
+Logic Error: Chave ja existe na Lista.
+Logic Error: Chave ja existe na Lista.
+Logic Error: Chave inexistente na Lista.
+REMOVIDO: 20
+REMOVIDO: 30
+REMOVIDO: 40
+50 60 70 80
+Logic Error: Chave inexistente na Lista.
+REMOVIDO: 50
+REMOVIDO: 60
+REMOVIDO: 70
+80
+Logic Error: Chave inexistente na Lista.
+SIM
+REMOVIDO: 80
+Underflow Error: Lista Vazia.
+Underflow Error: Lista Vazia.
+Underflow Error: Lista Vazia.
+Underflow Error: Lista Vazia.
+50
+Logic Error: Chave inexistente na Lista.
+SIM
+Logic Error: Chave ja existe na Lista.
+50
+Logic Error: Chave inexistente na Lista.
+SIM
+REMOVIDO: 50
+Underflow Error: Lista Vazia.
+Underflow Error: Lista Vazia.
